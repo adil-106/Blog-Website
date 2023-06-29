@@ -1,7 +1,6 @@
 {
   "name": "blog-app",
   "version": "1.0.0",
-  "description": "",
   "main": "app.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -15,5 +14,7 @@
     "lodash": "^4.17.21",
     "mongodb": "^5.5.0",
     "mongoose": "^7.2.2"
-  }
+  },
+  "devDependencies": {},
+  "description": ""
 }
